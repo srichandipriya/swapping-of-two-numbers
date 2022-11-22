@@ -1,0 +1,8 @@
+a=20;
+b=40;
+c=80;
+a=b;
+b=c;
+c=a;
+print("a value:",a)
+print("b value:",b)
